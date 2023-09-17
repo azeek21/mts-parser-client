@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cce7c9d1-5b1e-4bde-bb41-49319e7ec5ec" name="Changes" comment="done" />
+    <list default="true" id="cce7c9d1-5b1e-4bde-bb41-49319e7ec5ec" name="Changes" comment="done">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/hetot/WebstormProjects/mts/src/components",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
@@ -89,7 +94,7 @@
       <workItem from="1686520542864" duration="8368000" />
       <workItem from="1686541569402" duration="3518000" />
       <workItem from="1686547910567" duration="3142000" />
-      <workItem from="1694944955863" duration="13425000" />
+      <workItem from="1694944955863" duration="13671000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1686548724630</created>
